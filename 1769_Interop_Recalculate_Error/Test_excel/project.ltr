@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>D:\Documents\Primo\Alrosa\TEST\Test_excel\Main.ltw</Key>
+            <Value>90746d2c-95e0-4e91-95f4-ed4356265f32</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>D:\Documents\Primo\Alrosa\TEST\Test_excel\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\1769_Interop_Recalculate_Error\Test_excel\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
