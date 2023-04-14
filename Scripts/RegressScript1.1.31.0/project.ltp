@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Project>
+        <Name>PathError</Name>
+        <TypeSort>1</TypeSort>
+    </Project>
+    <RunConfig>None</RunConfig>
+    <RobotEdition>Enterprise</RobotEdition>
+    <LibraryModel>
+        <Args />
+        <CheckedList />
+        <DotNetPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\{0}.dll</DotNetPath>
+    </LibraryModel>
+</LTProjectRoot>

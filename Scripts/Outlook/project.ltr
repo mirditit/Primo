@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\Scripts\Outlook\Main.ltw</Key>
+            <Value>2da42393-41a2-4450-97a9-339f4349ee69</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\Scripts\Outlook\Main.ltw</Key>
+            <Value>484991f8-87a6-4c90-b7df-88a8012d3b00</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\Scripts\Outlook\Main.ltw</Key>
+            <Value>c9cbc009-4622-459b-86ff-ceed9b76be2b</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\loje4\Desktop\RPA diploms\web browser events\Main.ltw</string>
+        <string>C:\Users\loje4\Desktop\RPA diploms\outlook\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Outlook\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\Outlook\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

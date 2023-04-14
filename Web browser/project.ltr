@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>"новый сценарий"</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>"старый сценарий"</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\Web browser\Web browser.ltw</Key>
+            <Value>55939339-a275-4d9d-9ada-49b4d98f7512</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\loje4\Desktop\RPA diploms\Web browser\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser\Web browser.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Web browser\Web browser.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

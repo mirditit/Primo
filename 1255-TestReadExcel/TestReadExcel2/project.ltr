@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>a780c85b-f7bd-4ff8-b09c-d01207010e1b</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>ee0e358e-f6dc-49d5-aa68-a4bc926bbe59</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>ac1fac12-c4e2-4ea5-bf0d-78d6bbdbef34</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>cef90d3c-14c8-4ad9-bdaa-e2e9a113816e</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>5142f5fd-6279-4319-8025-a07f02bf279e</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>52617100-1e2c-431a-9db1-1ae5d51870b0</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>d23686ea-8af7-442c-b688-2e4a0f93eb4a</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</Key>
+            <Value>af81352e-3f31-4504-be00-927786004d1a</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\ShpilevoyAA\Documents\Primo\TestReadExcel\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcelInerop\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\1255-TestReadExcel\TestReadExcel2\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

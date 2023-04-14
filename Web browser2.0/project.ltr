@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>currencyTable.Rows[0]</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>videoCardRating.Rows[videoCardRating.Rows.Count-1]</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>out_carList.Count</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>out_carList.Contains("Opel")</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>out_carList.IndexOf("Audi")</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>imageExist.ToString()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>out_imageFromWebSite.GetType()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>out_imageFromWebSite.GetHashCode()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>in_email.ToCharArray()</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>in_firstName + " " + in_lastName</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\Web browser2.0\Practice Form.ltw</Key>
+            <Value>b4ab6b5f-4803-4e43-bffb-80a432b5efdc</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\Web browser2.0\All elements.ltw</Key>
+            <Value>beca35a9-2571-4d69-83dc-6f540c7289b1</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\loje4\Desktop\RPA diploms\Web browser2.0\Main.ltw</string>
+        <string>C:\Users\loje4\Desktop\RPA diploms\Web browser2.0\TextBox.ltw</string>
+        <string>C:\Users\loje4\Desktop\RPA diploms\Web browser2.0\all elements.ltw</string>
+        <string>C:\Users\loje4\Desktop\RPA diploms\Web browser2.0\Practice Form.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser2.0\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser2.0\Practice Form.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser2.0\Image.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser2.0\All elements.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\Web browser2.0\TextBox.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Web browser2.0\Image.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

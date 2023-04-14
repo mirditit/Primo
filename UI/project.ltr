@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\UI\Main.ltw</Key>
+            <Value>63048364-e2d2-41b3-942e-b5a9cf93fd2a</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\UI\Main.ltw</Key>
+            <Value>68e84857-d9bd-48a9-98c3-11f06fb9a163</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\UI\Main.ltw</Key>
+            <Value>fae01927-5350-4007-a29a-80651cbfc940</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\UI\Main.ltw</Key>
+            <Value>74aa5aa8-e736-491c-b183-231b25191f50</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\UI\Main.ltw</Key>
+            <Value>89975a19-bf0d-4d12-8a5b-c179a61416fe</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\loje4\Desktop\UI\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\UI\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1\RT_Excel_ranges_for_investigation.ltw</Key>
+            <Value>b67d9692-8960-4cef-a94d-9b1cdb07e7a4</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</Key>
+            <Value>b76d8a6e-6bf6-4e8e-947a-956f05967629</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</Key>
+            <Value>befb9bf0-7e27-4d8f-84db-c939b81d4810</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</Key>
+            <Value>d79c1a98-ce26-417a-8e8d-b643f8dba5c8</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</Key>
+            <Value>a96272c9-73f8-467d-b468-3ed3913e7192</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Browser_base.ltw</Key>
+            <Value>4ca6917c-24d6-4ea5-a70c-9df8ebd73cf3</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Browser_base.ltw</Key>
+            <Value>2cd8c840-5f08-44b5-9f2f-67176e3883af</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Filesystem.ltw</Key>
+            <Value>9490d85c-f9f8-4149-b26b-4d35f94300d0</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Filesystem.ltw</Key>
+            <Value>a4bd780c-a080-477f-a81b-d19a59c637a3</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\Scripts\RS_1.1\RT_Excel_ranges.ltw</Key>
+            <Value>0201efef-99f5-403b-9156-b544fedea884</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git>
+        <PathToRepo>C:\Users\Kat\Documents\Primo\Repo\.git\</PathToRepo>
+    </Git>
+    <LastOpenedItems>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\Выполнение запроса.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\Basics.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\Основы.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\Таблицы.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Excel.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Filesystem.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Excel_ranges.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Word_base.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Filesystem.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Data.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\RS_1.1\RT_Word_base.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\RS_1.1\RT_Excel_base.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\RS_1.1\RT_Excel_ranges.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

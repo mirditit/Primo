@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\Test_Data_Table_Column\Main.ltw</Key>
+            <Value>ab914eb1-82cb-478e-971d-3f2da54cef89</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\Administrator\Documents\Primo\Test_Data_Table\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Test_Data_Table_Column\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

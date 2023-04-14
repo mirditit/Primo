@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints />
+    <Git>
+        <PathToRepo>C:\Users\Kat\Documents\Primo\.git\</PathToRepo>
+    </Git>
+    <LastOpenedItems>
+        <string>C:\Users\Kat\Documents\Primo\PathError\Regress.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\PathError\Main.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\PathError\PythonCode.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\PathError\Диаграмма.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RegressScript1.1.31.0\C#Code.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RegressScript1.1.31.0\Диаграмма.ltw</string>
+        <string>C:\Users\Kat\Documents\Primo\RegressScript1.1.31.0\Regress.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\RegressScript1.1.31.0\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Scripts\RegressScript1.1.31.0\Regress.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
