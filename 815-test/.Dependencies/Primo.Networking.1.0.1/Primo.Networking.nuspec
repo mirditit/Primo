@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Primo.Networking</id>
+    <version>1.0.1</version>
+    <title>Primo.Networking</title>
+    <authors>Rondem</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://docs.primo-rpa.ru/primo-rpa/extra_els/els_networking/</projectUrl>
+    <description>Primo RPA elements for networking</description>
+    <copyright>Rondem 2020</copyright>
+    <tags>Primo RPA Network</tags>
+  </metadata>
+</package>
