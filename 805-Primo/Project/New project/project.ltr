@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\prod_robo_02\Documents\Primo\New project\Main.ltw</Key>
+            <Value>28919e4e-5884-4bbb-bc45-09803c7ee547</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\prod_robo_02\Documents\Primo\New project\Main.ltw</Key>
+            <Value>e4b1b643-6b09-446d-b095-ae65d38b90c3</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\Administrator\Documents\Primo\805-Primo\Project\New project\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

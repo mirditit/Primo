@@ -175,6 +175,11 @@
                         <Name>ShowAnnotation</Name>
                         <Value xsi:type="xsd:boolean">false</Value>
                     </SerializationItem>
+                    <SerializationItem>
+                        <IsListValue>false</IsListValue>
+                        <Name>Disp</Name>
+                        <Value xsi:type="xsd:boolean">false</Value>
+                    </SerializationItem>
                 </Properties>
                 <Components>
                     <SerializationComponent>
@@ -183,8 +188,17 @@
                         <Properties>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>ComponentName</Name>
+                                <Value xsi:type="xsd:string">Клик мышью</Value>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>Annotation</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>SearchPatterText</Name>
-                                <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\".Tag\",\"Value\":\"A\"},{\"Key\":\".Text\",\"Value\":\"Одежда и обувь\"},{\"Key\":\".SearchFrames\",\"Value\":\"False\"},{\"Key\":\"href\",\"Value\":\"/catalog--odezhda-obuv*\"},{\"Key\":\"CLASS\",\"Value\":\"egKyN*\"}],\"Items\":[]}],\"ContainerID\":\"11e9fa28-2014-4f47-80b8-4dc73db89b10\",\"LastContainerName\":\"Открыть браузер\",\"LastContainerType\":1,\"AppType\":5}"</Value>
+                                <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\".Tag\",\"Value\":\"A\"},{\"Key\":\".Text\",\"Value\":\"Компьютеры\"},{\"Key\":\".SearchFrames\",\"Value\":\"False\"},{\"Key\":\"href\",\"Value\":\"/catalog--kompiuternaia-tekhnika/*\"},{\"Key\":\"CLASS\",\"Value\":\"20WYq*\"}],\"Items\":[]}],\"ContainerID\":\"11e9fa28-2014-4f47-80b8-4dc73db89b10\",\"LastContainerName\":\"Открыть браузер\",\"LastContainerType\":1,\"AppType\":5}"</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -247,11 +261,6 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
-                                <Name>ComponentName</Name>
-                                <Value xsi:type="xsd:string">Клик мышью</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
                                 <Name>WaitBefore</Name>
                                 <Value xsi:type="xsd:string">5000</Value>
                             </SerializationItem>
@@ -259,10 +268,6 @@
                                 <IsListValue>false</IsListValue>
                                 <Name>WaitAfter</Name>
                                 <Value xsi:type="xsd:string">5000</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
-                                <Name>Annotation</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -315,6 +320,15 @@
                         <ClassName>LTools.UIInteraction.Elements.WFClick</ClassName>
                         <AssemblyName>LTools.UIInteraction, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
                         <Properties>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>ComponentName</Name>
+                                <Value xsi:type="xsd:string">Клик мышью</Value>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>Annotation</Name>
+                            </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>SearchPatterText</Name>
@@ -381,21 +395,12 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
-                                <Name>ComponentName</Name>
-                                <Value xsi:type="xsd:string">Клик мышью</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
                                 <Name>WaitBefore</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>WaitAfter</Name>
                                 <Value xsi:type="xsd:string">5000</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
-                                <Name>Annotation</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -450,8 +455,17 @@
                         <Properties>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>ComponentName</Name>
+                                <Value xsi:type="xsd:string">Клик мышью</Value>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>Annotation</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>SearchPatterText</Name>
-                                <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\".Tag\",\"Value\":\"A\"},{\"Key\":\".Text\",\"Value\":\"Одежда и обувь\"},{\"Key\":\".SearchFrames\",\"Value\":\"False\"},{\"Key\":\"href\",\"Value\":\"/catalog--odezhda-obuv-i-aksessuary/23276211/list?filter-express-delivery=1&amp;searchContext=express&amp;hid=7877999\"},{\"Key\":\"data-tid\",\"Value\":\"d78fd628\"}],\"Items\":[]}],\"ContainerID\":\"11e9fa28-2014-4f47-80b8-4dc73db89b10\",\"LastContainerName\":\"Открыть браузер\",\"LastContainerType\":1,\"AppType\":5}"</Value>
+                                <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\".Tag\",\"Value\":\"A\"},{\"Key\":\".Text\",\"Value\":\"Компьютеры\"},{\"Key\":\".SearchFrames\",\"Value\":\"False\"},{\"Key\":\"href\",\"Value\":\"/catalog--kompiuternaia-tekhnika/23275350/list?hid=91009&amp;filter-express-delivery=1&amp;searchContext=express\"},{\"Key\":\"CLASS\",\"Value\":\"egKyN _2jA_3 _44GlG\"}],\"Items\":[]}],\"ContainerID\":\"11e9fa28-2014-4f47-80b8-4dc73db89b10\",\"LastContainerName\":\"Открыть браузер\",\"LastContainerType\":1,\"AppType\":5}"</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -514,11 +528,6 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
-                                <Name>ComponentName</Name>
-                                <Value xsi:type="xsd:string">Клик мышью</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
                                 <Name>WaitBefore</Name>
                                 <Value xsi:type="xsd:string">5000</Value>
                             </SerializationItem>
@@ -526,10 +535,6 @@
                                 <IsListValue>false</IsListValue>
                                 <Name>WaitAfter</Name>
                                 <Value xsi:type="xsd:string">5000</Value>
-                            </SerializationItem>
-                            <SerializationItem>
-                                <IsListValue>false</IsListValue>
-                                <Name>Annotation</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>

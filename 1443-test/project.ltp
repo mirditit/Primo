@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <LTProjectRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Project>
-        <Name>Test_805</Name>
+        <Name>1443-test</Name>
         <TypeSort>1</TypeSort>
     </Project>
     <RunConfig>None</RunConfig>

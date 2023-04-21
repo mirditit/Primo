@@ -585,12 +585,6 @@
             <DataTypeString>String</DataTypeString>
             <Direction>IN_OUT</Direction>
         </ScriptVariable>
-        <ScriptVariable>
-            <Name>d</Name>
-            <Group />
-            <DataTypeString>System.Collections.Generic.Dictionary&lt;String,String&gt;</DataTypeString>
-            <Direction>IN_OUT</Direction>
-        </ScriptVariable>
     </GlobalVariables>
     <Arguments />
 </SerializationRoot>
