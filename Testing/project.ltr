@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
 <LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <WatchScripts />
-    <Ignored />
-    <Breakpoints>
+    <Ignored>
         <KeyValueItem>
-            <Key>C:\Users\Administrator\Documents\Primo\Hello_World_3\Main.ltw</Key>
-            <Value>80bed85c-6d4e-4d20-9b20-46e08c9c0bd5</Value>
+            <Key>C:\Users\Administrator\Documents\Primo\Testing\Testing.ltw</Key>
+            <Value>fa04087f-c575-4169-b829-54980d7bb39c</Value>
         </KeyValueItem>
-    </Breakpoints>
+    </Ignored>
+    <Breakpoints />
     <Git />
     <LastOpenedItems>
-        <string>C:\Users\Administrator\Documents\Primo\Hello_World_3\Main.ltw</string>
+        <string>C:\Users\Administrator\Documents\Primo\Testing\Testing.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

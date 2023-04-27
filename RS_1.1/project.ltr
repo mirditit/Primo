@@ -58,6 +58,10 @@
             <Key>C:\Users\Administrator\Documents\Primo\RS_1.1\RT_Excel_ranges.ltw</Key>
             <Value>0201efef-99f5-403b-9156-b544fedea884</Value>
         </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Primo\RS_1.1\RT_Word_base.ltw</Key>
+            <Value>3e946b0b-b901-4db2-ae17-78b94087f6cf</Value>
+        </KeyValueItem>
     </Ignored>
     <Breakpoints />
     <Git>
@@ -76,6 +80,5 @@
         <string>C:\Users\Kat\Documents\Primo\RS_1\RT_Outlook_base.ltw</string>
         <string>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Filesystem.ltw</string>
         <string>C:\Users\Kat\Documents\Primo\RS_1.1\RT_Data.ltw</string>
-        <string>C:\Users\Administrator\Documents\Primo\RS_1.1\RT_Word_base.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

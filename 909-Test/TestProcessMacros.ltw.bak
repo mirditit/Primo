@@ -28,14 +28,6 @@
             </SerializationItem>
             <SerializationItem>
                 <IsListValue>false</IsListValue>
-                <Name>WaitBefore</Name>
-            </SerializationItem>
-            <SerializationItem>
-                <IsListValue>false</IsListValue>
-                <Name>WaitAfter</Name>
-            </SerializationItem>
-            <SerializationItem>
-                <IsListValue>false</IsListValue>
                 <Name>ComponentID</Name>
                 <Value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:guid">b3e7e7dd-1506-4bd5-ab71-6568d4d3a5ca</Value>
             </SerializationItem>
@@ -79,6 +71,14 @@
                 <Name>ShowAnnotation</Name>
                 <Value xsi:type="xsd:boolean">false</Value>
             </SerializationItem>
+            <SerializationItem>
+                <IsListValue>false</IsListValue>
+                <Name>WaitBefore</Name>
+            </SerializationItem>
+            <SerializationItem>
+                <IsListValue>false</IsListValue>
+                <Name>WaitAfter</Name>
+            </SerializationItem>
         </Properties>
         <Components>
             <SerializationComponent>
@@ -97,7 +97,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>SearchPatterText</Name>
-                        <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\"Name\",\"Value\":\"Текстовый редактор\"},{\"Key\":\"AutomationID\",\"Value\":\"15\"},{\"Key\":\"ClassName\",\"Value\":\"Edit\"},{\"Key\":\"IsRoot\",\"Value\":\"False\"},{\"Key\":\"IsQuickSearch\",\"Value\":\"True\"},{\"Key\":\"IsApplet\",\"Value\":\"False\"},{\"Key\":\".DesktopType\",\"Value\":\"UIAUTOMATION\"},{\"Key\":\"Text\",\"Value\":\"Привет мир\r\nHello world\"},{\"Key\":\".ProcessName\",\"Value\":\"notepad****\"},{\"Key\":\".WindowTitle\",\"Value\":\"TestNotepad — Блокнот\"},{\"Key\":\".DesktopType\",\"Value\":\"UIAUTOMATION\"}],\"Items\":[]}],\"ContainerID\":\"6a47f4c1-5273-4783-80bb-ca671397cc03\",\"LastContainerName\":\"Присоединиться к приложению\",\"AppType\":0}"</Value>
+                        <Value xsi:type="xsd:string">"{\"Items\":[{\"Values\":[{\"Key\":\"Name\",\"Value\":\"Текстовый редактор\"},{\"Key\":\"AutomationID\",\"Value\":\"15\"},{\"Key\":\"ClassName\",\"Value\":\"Edit\"},{\"Key\":\"IsRoot\",\"Value\":\"False\"},{\"Key\":\"IsQuickSearch\",\"Value\":\"True\"},{\"Key\":\"IsApplet\",\"Value\":\"False\"},{\"Key\":\".DesktopType\",\"Value\":\"UIAUTOMATION\"},{\"Key\":\"Text\",\"Value\":\"Привет мир\r\nHello world\"},{\"Key\":\".ProcessName\",\"Value\":\"notepad***\"},{\"Key\":\".WindowTitle\",\"Value\":\"TestNotepad — Блокнот\"},{\"Key\":\".DesktopType\",\"Value\":\"UIAUTOMATION\"}],\"Items\":[]}],\"ContainerID\":\"6a47f4c1-5273-4783-80bb-ca671397cc03\",\"LastContainerName\":\"Присоединиться к приложению\",\"AppType\":0}"</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>

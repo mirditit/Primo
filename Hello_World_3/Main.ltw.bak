@@ -88,7 +88,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Variable</Name>
-                        <Value xsi:type="xsd:string">s1</Value>
+                        <Value xsi:type="xsd:string">str1</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -170,7 +170,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Message</Name>
-                        <Value xsi:type="xsd:string">s1</Value>
+                        <Value xsi:type="xsd:string">str1</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -252,7 +252,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Variable</Name>
-                        <Value xsi:type="xsd:string">s2</Value>
+                        <Value xsi:type="xsd:string">str2</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -334,7 +334,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Message</Name>
-                        <Value xsi:type="xsd:string">s2</Value>
+                        <Value xsi:type="xsd:string">str2</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -498,7 +498,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Message</Name>
-                        <Value xsi:type="xsd:string">s1</Value>
+                        <Value xsi:type="xsd:string">str1</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -572,14 +572,14 @@
     </RootContainer>
     <GlobalVariables>
         <ScriptVariable>
-            <Name>s1</Name>
+            <Name>str1</Name>
             <Group />
             <DefaultValue xsi:type="xsd:string">"String"</DefaultValue>
             <DataTypeString>String</DataTypeString>
             <Direction>IN_OUT</Direction>
         </ScriptVariable>
         <ScriptVariable>
-            <Name>s2</Name>
+            <Name>str2</Name>
             <Group />
             <DefaultValue xsi:type="xsd:string">"String_2"</DefaultValue>
             <DataTypeString>String</DataTypeString>
